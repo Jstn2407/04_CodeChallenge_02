@@ -14,4 +14,4 @@ Alter 13-17 // Cola
 
 */
 
-
+console.log("Peter trinkt Milch.")
